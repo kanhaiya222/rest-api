@@ -64,5 +64,5 @@ public class MyController {
 		}
 	}
 	
-	//created by kanhaiya
+	//created by kanhaiya working fine with tomcat
 }
